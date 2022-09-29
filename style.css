@@ -1,0 +1,30 @@
+
+.heading
+{
+font-size: 30px;
+margin-top: 10px;
+font-weight: bold;
+}
+
+.anchorbutton
+{
+font-size: 18px;
+width: 30%;
+border-radius: 30px;
+font-weight: 700;
+
+}
+
+body
+{
+    background-size: cover;
+    background-position: center;
+   
+}
+
+canvas
+{
+  box-shadow: 10px 10px grey;
+  border-radius: 10px;
+  margin-top: 30px;
+}
